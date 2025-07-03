@@ -1,0 +1,3 @@
+- ¿Qué diferencia hay entre lista y conjunto?
+- ¿Qué es una función lambda?
+- ¿Qué ventajas tiene pytest sobre unittest?

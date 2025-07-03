@@ -1,0 +1,2 @@
+- ¿Qué status code esperas para una creación exitosa?
+- ¿Qué pruebas negativas harías a un endpoint POST?.
